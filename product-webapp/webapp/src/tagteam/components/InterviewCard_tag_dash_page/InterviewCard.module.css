@@ -1,0 +1,74 @@
+
+  .interview_card{
+    width: 100%;
+    display:inline-flex;
+    font-size:16px;
+  }
+  .interview_details{
+    font-size: 700;
+    text-transform: uppercase;
+    padding:12px;
+  }
+  .interview_details .profile_details{
+    padding: 12px 0;
+  
+  }
+  .designation{
+    text-transform: uppercase;
+    color: crimson;
+    font-size: 18px;
+    font-weight: 800;
+    justify-content:space-around;
+  }
+  .interview_details .slot_details{
+    padding: 12px 0;
+  }
+  .interview_date{
+    background-color: rgb(223, 213, 213);
+    border-radius: 16px;
+    padding: 12px;
+  }
+  .interview_date_prefix{
+    display:inline-flex;
+  }
+  .interview_date_prefix_date {
+    font-weight: 900;
+    font-size: 68px;
+    color: red;
+    padding: 4px 4px 4px 8px;
+    line-height: 1;
+  }
+  .interview_date_prefix_prefix{
+    font-size:18px;
+    font-weight: 800;
+    text-transform: capitalize;
+    padding:8px 4px 4px 0;
+    color:#2d547e;
+    
+  }
+  .interview_date_prefix_time{
+    color: red;
+    text-decoration: underline;
+    font-weight: 800;
+    font-size: 16px;
+    text-align: center;
+  }
+  .pagination{
+    display: inline-flex;
+    width: 100%;
+    justify-content: center;
+    box-sizing: border-box;
+    margin: 20px 0;
+  }
+  .paginationItem{
+    padding:8px 12px;
+    border-radius: 4px;
+    text-align: center;
+    border: 1px solid gray;
+    margin: 1px;
+    cursor: pointer;
+  }
+  .active {
+    color: white;
+    background-color: teal;
+  }

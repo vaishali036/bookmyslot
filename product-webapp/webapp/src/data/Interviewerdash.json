@@ -1,0 +1,741 @@
+{
+    "slot": [
+      {
+        "tagTeam": "Ramesh",
+        "slotFrom": "9:30",
+        "slotTo": "11:30",
+        "date": "04/08/2022",
+        "status": "Scheduled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html,css,js",
+        "slotId":"aaa"
+      },
+      {
+        "tagTeam": "Akshit",
+        "slotFrom": "11:30",
+        "slotTo": "13:30",
+        "date": "06/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python",
+        "slotId": "0242ac120012"
+      },
+      {
+        "tagTeam": "Hussain",
+        "slotFrom": "14:30",
+        "slotTo": "15:30",
+        "date": "07/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "fullstack",
+        "interviewtopic": "java,python,html"
+      },
+      {
+        "tagTeam": "Siva",
+        "slotFrom": "16:30",
+        "slotTo": "17:30",
+        "date": "08/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, angular"
+      },
+      {
+        "tagTeam": "lakshman",
+        "slotFrom": "17:45",
+        "slotTo": "18:30",
+        "date": "09/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python, bootstrap"
+      },
+      {
+        "tagTeam": "lakshmanRao",
+        "slotFrom": "11:45",
+        "slotTo": "12:30",
+        "date": "07/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python, bootstrap"
+      },
+      {
+        "tagTeam": "Siva",
+        "slotFrom": "18:30",
+        "slotTo": "19:30",
+        "date": "05/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Hari",
+        "slotFrom": "10:30",
+        "slotTo": "12:30",
+        "date": "04/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Sravani",
+        "slotFrom": "8:30",
+        "slotTo": "9:30",
+        "date": "06/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Kalyani",
+        "slotFrom": "9:30",
+        "slotTo": "11:30",
+        "date": "08/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "Fullstack",
+        "interviewtopic": "html, css, bootstrap"
+      },
+      {
+        "tagTeam": "Ramesh",
+        "slotFrom": "9:30",
+        "slotTo": "11:30",
+        "date": "04/06/2022",
+        "status": "Scheduled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html,css,js",
+        "slotId":"aaa"
+      },
+      {
+        "tagTeam": "Akshit",
+        "slotFrom": "11:30",
+        "slotTo": "13:30",
+        "date": "06/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python",
+        "slotId": "0242ac120012"
+      },
+      {
+        "tagTeam": "Hussain",
+        "slotFrom": "14:30",
+        "slotTo": "15:30",
+        "date": "07/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "fullstack",
+        "interviewtopic": "java,python,html"
+      },
+      {
+        "tagTeam": "Siva",
+        "slotFrom": "16:30",
+        "slotTo": "17:30",
+        "date": "08/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, angular"
+      },
+      {
+        "tagTeam": "lakshman",
+        "slotFrom": "17:45",
+        "slotTo": "18:30",
+        "date": "09/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python, bootstrap"
+      },
+      {
+        "tagTeam": "lakshmanRao",
+        "slotFrom": "11:45",
+        "slotTo": "12:30",
+        "date": "07/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python, bootstrap"
+      },
+      {
+        "tagTeam": "Siva",
+        "slotFrom": "18:30",
+        "slotTo": "19:30",
+        "date": "05/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Hari",
+        "slotFrom": "10:30",
+        "slotTo": "12:30",
+        "date": "04/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Sravani",
+        "slotFrom": "8:30",
+        "slotTo": "9:30",
+        "date": "06/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Kalyani",
+        "slotFrom": "9:30",
+        "slotTo": "11:30",
+        "date": "08/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "Fullstack",
+        "interviewtopic": "html, css, bootstrap"
+      },
+      {
+        "tagTeam": "Ramesh",
+        "slotFrom": "9:30",
+        "slotTo": "11:30",
+        "date": "04/06/2022",
+        "status": "Scheduled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html,css,js",
+        "slotId":"aaa"
+      },
+      {
+        "tagTeam": "Akshit",
+        "slotFrom": "11:30",
+        "slotTo": "13:30",
+        "date": "06/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python",
+        "slotId": "0242ac120012"
+      },
+      {
+        "tagTeam": "Hussain",
+        "slotFrom": "14:30",
+        "slotTo": "15:30",
+        "date": "07/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "fullstack",
+        "interviewtopic": "java,python,html"
+      },
+      {
+        "tagTeam": "Siva",
+        "slotFrom": "16:30",
+        "slotTo": "17:30",
+        "date": "08/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, angular"
+      },
+      {
+        "tagTeam": "lakshman",
+        "slotFrom": "17:45",
+        "slotTo": "18:30",
+        "date": "09/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python, bootstrap"
+      },
+      {
+        "tagTeam": "lakshmanRao",
+        "slotFrom": "11:45",
+        "slotTo": "12:30",
+        "date": "07/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python, bootstrap"
+      },
+      {
+        "tagTeam": "Siva",
+        "slotFrom": "18:30",
+        "slotTo": "19:30",
+        "date": "05/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Hari",
+        "slotFrom": "10:30",
+        "slotTo": "12:30",
+        "date": "04/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Sravani",
+        "slotFrom": "8:30",
+        "slotTo": "9:30",
+        "date": "06/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Kalyani",
+        "slotFrom": "9:30",
+        "slotTo": "11:30",
+        "date": "08/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "Fullstack",
+        "interviewtopic": "html, css, bootstrap"
+      },
+      {
+        "tagTeam": "Ramesh",
+        "slotFrom": "9:30",
+        "slotTo": "11:30",
+        "date": "04/06/2022",
+        "status": "Scheduled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html,css,js",
+        "slotId":"aaa"
+      },
+      {
+        "tagTeam": "Akshit",
+        "slotFrom": "11:30",
+        "slotTo": "13:30",
+        "date": "06/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python",
+        "slotId": "0242ac120012"
+      },
+      {
+        "tagTeam": "Hussain",
+        "slotFrom": "14:30",
+        "slotTo": "15:30",
+        "date": "07/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "fullstack",
+        "interviewtopic": "java,python,html"
+      },
+      {
+        "tagTeam": "Siva",
+        "slotFrom": "16:30",
+        "slotTo": "17:30",
+        "date": "08/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, angular"
+      },
+      {
+        "tagTeam": "lakshman",
+        "slotFrom": "17:45",
+        "slotTo": "18:30",
+        "date": "09/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python, bootstrap"
+      },
+      {
+        "tagTeam": "lakshmanRao",
+        "slotFrom": "11:45",
+        "slotTo": "12:30",
+        "date": "07/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python, bootstrap"
+      },
+      {
+        "tagTeam": "Siva",
+        "slotFrom": "18:30",
+        "slotTo": "19:30",
+        "date": "05/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Hari",
+        "slotFrom": "10:30",
+        "slotTo": "12:30",
+        "date": "04/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Sravani",
+        "slotFrom": "8:30",
+        "slotTo": "9:30",
+        "date": "06/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Kalyani",
+        "slotFrom": "9:30",
+        "slotTo": "11:30",
+        "date": "08/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "Fullstack",
+        "interviewtopic": "html, css, bootstrap"
+      },
+      {
+        "tagTeam": "Ramesh",
+        "slotFrom": "9:30",
+        "slotTo": "11:30",
+        "date": "04/06/2022",
+        "status": "Scheduled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html,css,js",
+        "slotId":"aaa"
+      },
+      {
+        "tagTeam": "Akshit",
+        "slotFrom": "11:30",
+        "slotTo": "13:30",
+        "date": "06/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python",
+        "slotId": "0242ac120012"
+      },
+      {
+        "tagTeam": "Hussain",
+        "slotFrom": "14:30",
+        "slotTo": "15:30",
+        "date": "07/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "fullstack",
+        "interviewtopic": "java,python,html"
+      },
+      {
+        "tagTeam": "Siva",
+        "slotFrom": "16:30",
+        "slotTo": "17:30",
+        "date": "08/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, angular"
+      },
+      {
+        "tagTeam": "lakshman",
+        "slotFrom": "17:45",
+        "slotTo": "18:30",
+        "date": "09/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python, bootstrap"
+      },
+      {
+        "tagTeam": "lakshmanRao",
+        "slotFrom": "11:45",
+        "slotTo": "12:30",
+        "date": "07/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python, bootstrap"
+      },
+      {
+        "tagTeam": "Siva",
+        "slotFrom": "18:30",
+        "slotTo": "19:30",
+        "date": "05/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Hari",
+        "slotFrom": "10:30",
+        "slotTo": "12:30",
+        "date": "04/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Sravani",
+        "slotFrom": "8:30",
+        "slotTo": "9:30",
+        "date": "06/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Kalyani",
+        "slotFrom": "9:30",
+        "slotTo": "11:30",
+        "date": "08/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "Fullstack",
+        "interviewtopic": "html, css, bootstrap"
+      },
+      {
+        "tagTeam": "Ramesh",
+        "slotFrom": "9:30",
+        "slotTo": "11:30",
+        "date": "04/06/2022",
+        "status": "Scheduled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html,css,js",
+        "slotId":"aaa"
+      },
+      {
+        "tagTeam": "Akshit",
+        "slotFrom": "11:30",
+        "slotTo": "13:30",
+        "date": "06/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python",
+        "slotId": "0242ac120012"
+      },
+      {
+        "tagTeam": "Hussain",
+        "slotFrom": "14:30",
+        "slotTo": "15:30",
+        "date": "07/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "fullstack",
+        "interviewtopic": "java,python,html"
+      },
+      {
+        "tagTeam": "Siva",
+        "slotFrom": "16:30",
+        "slotTo": "17:30",
+        "date": "08/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, angular"
+      },
+      {
+        "tagTeam": "lakshman",
+        "slotFrom": "17:45",
+        "slotTo": "18:30",
+        "date": "09/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python, bootstrap"
+      },
+      {
+        "tagTeam": "lakshmanRao",
+        "slotFrom": "11:45",
+        "slotTo": "12:30",
+        "date": "07/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python, bootstrap"
+      },
+      {
+        "tagTeam": "Siva",
+        "slotFrom": "18:30",
+        "slotTo": "19:30",
+        "date": "05/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Hari",
+        "slotFrom": "10:30",
+        "slotTo": "12:30",
+        "date": "04/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Sravani",
+        "slotFrom": "8:30",
+        "slotTo": "9:30",
+        "date": "06/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Kalyani",
+        "slotFrom": "9:30",
+        "slotTo": "11:30",
+        "date": "08/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "Fullstack",
+        "interviewtopic": "html, css, bootstrap"
+      },
+      {
+        "tagTeam": "Ramesh",
+        "slotFrom": "9:30",
+        "slotTo": "11:30",
+        "date": "04/06/2022",
+        "status": "Scheduled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html,css,js",
+        "slotId":"aaa"
+      },
+      {
+        "tagTeam": "Akshit",
+        "slotFrom": "11:30",
+        "slotTo": "13:30",
+        "date": "06/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python",
+        "slotId": "0242ac120012"
+      },
+      {
+        "tagTeam": "Hussain",
+        "slotFrom": "14:30",
+        "slotTo": "15:30",
+        "date": "07/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "fullstack",
+        "interviewtopic": "java,python,html"
+      },
+      {
+        "tagTeam": "Siva",
+        "slotFrom": "16:30",
+        "slotTo": "17:30",
+        "date": "08/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, angular"
+      },
+      {
+        "tagTeam": "lakshman",
+        "slotFrom": "17:45",
+        "slotTo": "18:30",
+        "date": "09/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python, bootstrap"
+      },
+      {
+        "tagTeam": "lakshmanRao",
+        "slotFrom": "11:45",
+        "slotTo": "12:30",
+        "date": "07/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python, bootstrap"
+      },
+      {
+        "tagTeam": "Siva",
+        "slotFrom": "18:30",
+        "slotTo": "19:30",
+        "date": "05/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Hari",
+        "slotFrom": "10:30",
+        "slotTo": "12:30",
+        "date": "04/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Sravani",
+        "slotFrom": "8:30",
+        "slotTo": "9:30",
+        "date": "06/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Kalyani",
+        "slotFrom": "9:30",
+        "slotTo": "11:30",
+        "date": "08/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "Fullstack",
+        "interviewtopic": "html, css, bootstrap"
+      },
+      {
+        "tagTeam": "Ramesh",
+        "slotFrom": "9:30",
+        "slotTo": "11:30",
+        "date": "04/06/2022",
+        "status": "Scheduled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html,css,js",
+        "slotId":"aaa"
+      },
+      {
+        "tagTeam": "Akshit",
+        "slotFrom": "11:30",
+        "slotTo": "13:30",
+        "date": "06/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python",
+        "slotId": "0242ac120012"
+      },
+      {
+        "tagTeam": "Hussain",
+        "slotFrom": "14:30",
+        "slotTo": "15:30",
+        "date": "07/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "fullstack",
+        "interviewtopic": "java,python,html"
+      },
+      {
+        "tagTeam": "Siva",
+        "slotFrom": "16:30",
+        "slotTo": "17:30",
+        "date": "08/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, angular"
+      },
+      {
+        "tagTeam": "lakshman",
+        "slotFrom": "17:45",
+        "slotTo": "18:30",
+        "date": "09/04/2022",
+        "status": "Scheduled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python, bootstrap"
+      },
+      {
+        "tagTeam": "lakshmanRao",
+        "slotFrom": "11:45",
+        "slotTo": "12:30",
+        "date": "07/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "backend",
+        "interviewtopic": "java,python, bootstrap"
+      },
+      {
+        "tagTeam": "Siva",
+        "slotFrom": "18:30",
+        "slotTo": "19:30",
+        "date": "05/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Hari",
+        "slotFrom": "10:30",
+        "slotTo": "12:30",
+        "date": "04/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Sravani",
+        "slotFrom": "8:30",
+        "slotTo": "9:30",
+        "date": "06/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "frontend",
+        "interviewtopic": "html, css, react"
+      },
+      {
+        "tagTeam": "Kalyani",
+        "slotFrom": "9:30",
+        "slotTo": "11:30",
+        "date": "08/04/2022",
+        "status": "Cancelled",
+        "tecktrack": "Fullstack",
+        "interviewtopic": "html, css, bootstrap"
+      }
+    ]
+  }
+  

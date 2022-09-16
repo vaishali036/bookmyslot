@@ -1,0 +1,138 @@
+{
+  "slots": 
+  [
+    {
+        "slotId": "SLOT3",
+        "techTrack": "frontend",
+        "interviewerEmailId": "shrik@gmail.com",
+        "interviewerName": "Ritka",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "date": "2022:4:2",
+        "description": "java",
+        "bookedStatus": "UPCOMING"
+    },
+    {
+        "slotId": "SLOT4",
+        "techTrack": "frontend",
+        "interviewerEmailId": "shrik@gmail.com",
+        "interviewerName": "Shri",
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "date": "2022:04:02",
+        "description": "java",
+        "bookedStatus": "UPCOMING"
+    },
+    {
+        "slotId": "SLOT5",
+        "techTrack": "frontend",
+        "interviewerEmailId": "shrik@gmail.com",
+        "interviewerName": "Shri",
+        "startTime": "16:00",
+        "endTime": "18:00",
+        "date": "2022:04:02",
+        "description": "java",
+        "bookedStatus": "UPCOMING"
+    },
+    {
+        "slotId": "SLOT6",
+        "techTrack": "frontend",
+        "interviewerEmailId": "shrik@gmail.com",
+        "interviewerName": "Shri",
+        "startTime": "16:00",
+        "endTime": "18:00",
+        "date": "2022:04:02",
+        "description": "java",
+        "bookedStatus": "UPCOMING"
+    },
+    {
+        "slotId": "SLOT7",
+        "techTrack": "frontend",
+        "interviewerEmailId": "shrik@gmail.com",
+        "interviewerName": "Shri",
+        "startTime": "04:00",
+        "endTime": "06:00",
+        "date": "2022:04:02",
+        "description": "java",
+        "bookedStatus": "UPCOMING"
+    },
+    {
+        "slotId": "SLOT8",
+        "techTrack": "frontend",
+        "interviewerEmailId": "shrik@gmail.com",
+        "interviewerName": "Shri",
+        "startTime": "04:00",
+        "endTime": "06:00",
+        "date": "2022:04:02",
+        "description": "java",
+        "bookedStatus": "UPCOMING"
+    },
+    {
+        "slotId": "SLOT9",
+        "techTrack": "frontend",
+        "interviewerEmailId": "shrik@gmail.com",
+        "interviewerName": "Shri",
+        "startTime": "04:00",
+        "endTime": "06:00",
+        "date": "2023:04:02",
+        "description": "java",
+        "bookedStatus": "UPCOMING"
+    },
+    {
+        "slotId": "SLOT10",
+        "techTrack": "frontend",
+        "interviewerEmailId": "shrik@gmail.com",
+        "interviewerName": "Shri",
+        "startTime": "04:00",
+        "endTime": "06:00",
+        "date": "2024:05:02",
+        "description": "java",
+        "bookedStatus": "UPCOMING"
+    },
+    {
+        "slotId": "SLOT11",
+        "techTrack": "frontend",
+        "interviewerEmailId": "shrik@gmail.com",
+        "interviewerName": "Shri",
+        "startTime": "04:00",
+        "endTime": "06:00",
+        "date": "2022:06:02",
+        "description": "java",
+        "bookedStatus": "UPCOMING"
+    },
+    {
+        "slotId": "SLOT12",
+        "techTrack": "frontend",
+        "interviewerEmailId": "shrik@gmail.com",
+        "interviewerName": "Shri",
+        "startTime": "04:00",
+        "endTime": "06:00",
+        "date": "2022:07:02",
+        "description": "java",
+        "bookedStatus": "UPCOMING"
+    },
+    {
+        "slotId": "SLOT13",
+        "techTrack": "frontend",
+        "interviewerEmailId": "shrik@gmail.com",
+        "interviewerName": "Shri",
+        "startTime": "04:00",
+        "endTime": "06:00",
+        "date": "2023:08:02",
+        "description": "java",
+        "bookedStatus": "UPCOMING"
+    },
+    {
+        "slotId": "SLOT14",
+        "techTrack": "frontend",
+        "interviewerEmailId": "shrik@gmail.com",
+        "interviewerName": "Shri",
+        "startTime": "04:00",
+        "endTime": "06:00",
+        "date": "2024:09:02",
+        "description": "java",
+        "bookedStatus": "UPCOMING"
+    }
+
+]
+}

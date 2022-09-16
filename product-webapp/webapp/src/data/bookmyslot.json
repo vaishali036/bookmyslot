@@ -1,0 +1,223 @@
+{
+  "slot": [
+    {
+      "date": "04/04/2022",
+      "availableSlots": [
+        {
+          "slotId": "0242ac120012",
+          "slotFrom": "9:30",
+          "slotTo": "11:30",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "status": "Available"
+        },
+        {
+          "slotId": "0242ac120022",
+          "slotFrom": "12:00",
+          "slotTo": "14:00",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "status": "Available"
+        },
+        {
+          "slotId": "0242ac120032",
+          "slotFrom": "14:30",
+          "slotTo": "15:30",
+          "description": "L1 Support: Web Application Support, Excellent Communication Skills, LinuxUnix, SQL, Basic Knowledge of web technologies.",
+          "status": "Available"
+        },
+        {
+          "slotId": "0242ac120042",
+          "slotFrom": "15:30",
+          "slotTo": "16:30",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "status": "Available"
+        },
+        {
+          "slotId": "0242ac120052",
+          "slotFrom": "16:30",
+          "slotTo": "16:50",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "status": "Available"
+        },
+        {
+          "slotId": "0242ac120062",
+          "slotFrom": "17:00",
+          "slotTo": "17:30",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "date": "05/04/2022",
+      "availableSlots": [
+        {
+          "slotId": "0242ac120013",
+          "slotFrom": "9:30",
+          "slotTo": "11:00",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "status": "Unavailable"
+        },
+        {
+          "slotId": "0242ac120023",
+          "slotFrom": "12:00",
+          "slotTo": "14:00",
+          "description": "L1 Support: Web Application Support, Excellent Communication Skills, LinuxUnix, SQL, Basic Knowledge of web technologies.",
+          "status": "Available"
+        },
+        {
+          "slotId": "0242ac120033",
+          "slotFrom": "15:30",
+          "slotTo": "18:30",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "date": "06/04/2022",
+      "availableSlots": [
+        {
+          "slotId": "0242ac120014",
+          "slotFrom": "11:00",
+          "slotTo": "12:30",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "status": "Available"
+        },
+        {
+          "slotId": "0242ac120034",
+          "slotFrom": "15:30",
+          "slotTo": "16:00",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "status": "Available"
+        },
+        {
+          "slotId": "0242ac120044",
+          "slotFrom": "16:00",
+          "slotTo": "17:00",
+          "description": "UI Interview: Designing",
+          "status": "Available"
+        },
+        {
+          "slotId": "0242fg150044",
+          "slotFrom": "17:30",
+          "slotTo": "18:00",
+          "description": "Front-end Interview: Angular,react, javascript",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "date": "07/04/2022",
+      "availableSlots": [
+        {
+          "slotId": "0242ac120045",
+          "slotFrom": "9:30",
+          "slotTo": "11:00",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "status": "Available"
+        },
+        {
+          "slotId": "0242ac120032",
+          "slotFrom": "12:30",
+          "slotTo": "14:00",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "status": "Available"
+        },
+        {
+          "slotId": "0242ac120065",
+          "slotFrom": "15:30",
+          "slotTo": "18:30",
+          "description": "Software Engineer: SQL/Database, Any Programming Languages (C/C++/Java/Python) - (Basics), Regular Expression, Shell Scripting",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "date": "08/04/2022",
+      "availableSlots": [
+        {
+          "slotId": "0242ac120066",
+          "slotFrom": "9:00",
+          "slotTo": "11:30",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "status": "Available"
+        },
+        {
+          "slotId": "0242ac120067",
+          "slotFrom": "12:00",
+          "slotTo": "14:00",
+          "description": "Analyst Interview",
+          "status": "Unavailable"
+        },
+        {
+          "slotId": "0242ac120068",
+          "slotFrom": "15:30",
+          "slotTo": "18:30",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "date": "11/04/2022",
+      "availableSlots": [
+        {
+          "slotId": "0242ac120069",
+          "slotFrom": "9:00",
+          "slotTo": "10:00",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "status": "Available"
+        },
+        {
+          "slotId": "0242ac120070",
+          "slotFrom": "10:00",
+          "slotTo": "10:30",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "status": "Available"
+        },
+        {
+          "slotId": "0242ac120071",
+          "slotFrom": "10:30",
+          "slotTo": "11:00",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "status": "Available"
+        },
+        {
+          "slotId": "0242ac120072",
+          "slotFrom": "11:00",
+          "slotTo": "11:30",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "status": "Unavailable"
+        },
+        {
+          "slotId": "0242ac120073",
+          "slotFrom": "11:30",
+          "slotTo": "12:00",
+          "description": "Software Engineer: SQL/Database, Any Programming Languages (C/C++/Java/Python) - (Basics), Regular Expression, Shell Scripting",
+          "status": "Available"
+        },
+        {
+          "slotId": "0242ac120074",
+          "slotFrom": "12:00",
+          "slotTo": "14:00",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "status": "Available"
+        },
+        {
+          "slotId": "0242ac120075",
+          "slotFrom": "14:30",
+          "slotTo": "15:00",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "status": "Available"
+        },
+        {
+          "slotId": "0242ac120075",
+          "slotFrom": "15:30",
+          "slotTo": "16:30",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "status": "Unvailable"
+        }
+      ]
+    }
+  ]
+}

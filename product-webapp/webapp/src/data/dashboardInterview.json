@@ -1,0 +1,216 @@
+{
+  "slot": [
+    {
+      "interviewerName": "akshit",
+      "startTime": "9:30",
+      "endTime": "11:30",
+      "interviewerAvailDate": "2022:08:04",
+      "bookedStatus": "PAST",
+      "tecktrack": "frontend",
+      "interviewTopic": "html,css,js",
+      "slotId": "74847488",
+      "bookingDate": "2022:05:03"
+    },
+    {
+      "interviewerName": "simbha",
+      "startTime": "9:30",
+      "endTime": "11:30",
+      "interviewerAvailDate": "2022:08:04",
+      "bookedStatus": "BOOKED",
+      "tecktrack": "backend",
+      "interviewTopic": "html,css,js",
+      "slotId": "87484hjdjj",
+      "bookingDate": "2022:05:04"
+    },
+    {
+      "interviewerName": "shiva",
+      "startTime": "11:30",
+      "endTime": "13:30",
+      "interviewerAvailDate": "06:04:2022",
+      "bookedStatus": "BOOKED",
+      "tecktrack": "backend",
+      "interviewTopic": "java,python",
+      "slotId": "0242ac120012",
+      "bookingDate": "2022:05:06"
+    },
+    {
+      "interviewerName": "hussain",
+      "startTime": "14:30",
+      "endTime": "15:30",
+      "interviewerAvailDate": "07:04:2022",
+      "bookedStatus": "BOOKED",
+      "tecktrack": "fullstack",
+      "interviewTopic": "java,python,html",
+      "slotId": "84jmfmfmfmfm",
+      "bookingDate": "2022:05:04"
+    },
+    {
+      "interviewerName": "5",
+      "startTime": "16:30",
+      "endTime": "17:30",
+      "interviewerAvailDate": "08:04:2022",
+      "bookedStatus": "BOOKED",
+      "tecktrack": "frontend",
+      "interviewTopic": "html, css, angular",
+      "bookingDate": "2022:05:11"
+    },
+    {
+      "interviewerName": "6",
+      "startTime": "17:45",
+      "endTime": "18:30",
+      "interviewerAvailDate": "09:04:2022",
+      "bookedStatus": "BOOKED",
+      "tecktrack": "backend",
+      "interviewTopic": "java,python, bootstrap",
+      "bookingDate": "2022:05:13"
+    },
+    {
+      "interviewerName": "7",
+      "startTime": "11:45",
+      "endTime": "12:30",
+      "interviewerAvailDate": "07:04:2022",
+      "bookedStatus": "CANCELED",
+      "tecktrack": "backend",
+      "interviewTopic": "java,python, bootstrap",
+      "bookingDate": "2022:05:09"
+    },
+    {
+      "interviewerName": "8",
+      "startTime": "18:30",
+      "endTime": "19:30",
+      "interviewerAvailDate": "05:04:2022",
+      "bookedStatus": "CANCELED",
+      "tecktrack": "frontend",
+      "interviewTopic": "html, css, react",
+      "bookingDate": "2022:05:10"
+    },
+    {
+      "interviewerName": "9",
+      "startTime": "10:30",
+      "endTime": "12:30",
+      "interviewerAvailDate": "04:04:2022",
+      "bookedStatus": "CANCELED",
+      "tecktrack": "frontend",
+      "interviewTopic": "html, css, react",
+      "bookingDate": "2022:05:11"
+    },
+    {
+      "interviewerName": "10",
+      "startTime": "8:30",
+      "endTime": "9:30",
+      "interviewerAvailDate": "06:04:2022",
+      "bookedStatus": "CANCELED",
+      "tecktrack": "frontend",
+      "interviewTopic": "html, css, react",
+      "bookingDate": "2022:05:10"
+    },
+    {
+      "interviewerName": "11",
+      "startTime": "9:30",
+      "endTime": "11:30",
+      "interviewerAvailDate": "08:04:2022",
+      "bookedStatus": "CANCELED",
+      "tecktrack": "Fullstack",
+      "interviewTopic": "html, css, bootstrap",
+      "bookingDate": "2022:05:12"
+    },
+    {
+      "interviewerName": "12",
+      "startTime": "9:30",
+      "endTime": "11:30",
+      "interviewerAvailDate": "05:05:2022",
+      "bookedStatus": "BOOKED",
+      "tecktrack": "frontend",
+      "interviewTopic": "html,css,js",
+      "slotId": "aaa",
+      "bookingDate": "2022:05:13"
+    },
+    {
+      "interviewerName": "13",
+      "startTime": "11:30",
+      "endTime": "13:30",
+      "interviewerAvailDate": "06:04:2022",
+      "bookedStatus": "BOOKED",
+      "tecktrack": "backend",
+      "interviewTopic": "java,python",
+      "slotId": "0242ac120012",
+      "bookingDate": "2022:05:03"
+    },
+    {
+      "interviewerName": "14",
+      "startTime": "14:30",
+      "endTime": "15:30",
+      "interviewerAvailDate": "07:04:2022",
+      "bookedStatus": "BOOKED",
+      "tecktrack": "fullstack",
+      "interviewTopic": "java,python,html",
+      "bookingDate": "2022:05:03"
+    },
+    {
+      "interviewerName": "15",
+      "startTime": "16:30",
+      "endTime": "17:30",
+      "interviewerAvailDate": "08:04:2022",
+      "bookedStatus": "BOOKED",
+      "tecktrack": "frontend",
+      "interviewTopic": "html, css, angular",
+      "bookingDate": "2022:05:14"
+    },
+    {
+      "interviewerName": "17",
+      "startTime": "11:45",
+      "endTime": "12:30",
+      "interviewerAvailDate": "17:07:2022",
+      "bookedStatus": "CANCELED",
+      "tecktrack": "SOFTWARE",
+      "bookingDate": "2022:05:16"
+    },
+    {
+      "interviewerName": "18",
+      "startTime": "17:45",
+      "endTime": "19:30",
+      "interviewerAvailDate": "07:09:2022",
+      "bookedStatus": "BOOKED",
+      "tecktrack": "backend",
+      "bookingDate": "2022:05:19"
+    },
+    {
+      "interviewerName": "19",
+      "startTime": "14:30",
+      "endTime": "15:30",
+      "interviewerAvailDate": "05:04:2022",
+      "bookedStatus": "BOOKED",
+      "tecktrack": "fullstack",
+      "interviewTopic": "java,python,html",
+      "bookingDate": "2022:05:23"
+    },
+    {
+      "interviewerName": "20",
+      "startTime": "16:30",
+      "endTime": "17:30",
+      "interviewerAvailDate": "07:05:2022",
+      "bookedStatus": "BOOKED",
+      "tecktrack": "frontend",
+      "interviewTopic": "html, css, angular",
+      "bookingDate": "2022:05:12"
+    },
+    {
+      "interviewerName": "22",
+      "startTime": "11:45",
+      "endTime": "12:30",
+      "interviewerAvailDate": "05:09:2022",
+      "bookedStatus": "CANCELED",
+      "tecktrack": "backend",
+      "bookingDate": "2022:05:11"
+    },
+    {
+      "interviewerName": "23",
+      "startTime": "11:45",
+      "endTime": "12:30",
+      "interviewerAvailDate": "04:9:2022",
+      "bookedStatus": "CANCELED",
+      "tecktrack": "mobile development",
+      "bookingDate": "2022:05:09"
+    }
+  ]
+}

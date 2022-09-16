@@ -1,0 +1,13 @@
+
+
+.form-control{
+    margin-left: 0.5rem;
+    background-color: #ffffff;
+    border:lightgray;
+    color : var(--font-main-color);
+    width: 50%;
+}
+label.form-label{
+    margin : 0;
+    padding: 0;
+}

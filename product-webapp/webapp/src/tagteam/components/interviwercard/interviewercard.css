@@ -1,0 +1,45 @@
+
+.av-slots{
+    padding: 10px;
+    background: var(--background-secondary);
+    text-align: center;
+    transition: all .3s ease-in-out;
+}
+
+.av-slots:hover:not(.booked) {
+    background-color: var(--btn-primary-hover);
+    color : var(--font-white);
+  }
+
+
+p{
+    color : var(--font-main-color) !important;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.card{
+    background-color: #cfd2dd;
+    height : 100%;
+    transition: all .3s ease-in-out;
+}
+
+.card:hover{
+    background-color: var(--card-hover);
+}
+
+.form-control {
+    margin-left: 0.5rem;
+    background-color: #e5e1e1;
+    border: lightgray;
+    color: var(--font-main-color);
+    width: 65%;
+}
+
+.booked{
+    background-color: rgb(251 133 133);
+    color: #6c6363de;
+    font-weight: 600;
+}

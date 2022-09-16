@@ -1,0 +1,347 @@
+.reportcount {
+  display: flex;
+  margin: 0;
+}
+.totalCount {
+  width: 15%;
+  height: 770px;
+  /* border: 1px solid red; */
+  margin: 0;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  /* position: inherit; */
+}
+.h3,
+h3 {
+  text-align: center;
+  padding-top: 15px;
+}
+.interviewsCount {
+  width: 90%;
+  /* border: 1px solid red; */
+  height: 160px;
+  /* padding: 100px; */
+  margin: 10px;
+  /* position: relative; */
+  background-color: rgb(0, 113, 128);
+  border-radius: 30px;
+}
+.scheduledCount {
+  width: 90%;
+  /* border: 1px solid red; */
+  height: 170px;
+  /* padding: 100px; */
+  margin: 10px;
+  /* position: relative; */
+  background-color: rgb(218, 180, 15);
+  border-radius: 30px;
+}
+.completedcount {
+  width: 90%;
+  /* border: 1px solid red; */
+  height: 160px;
+  /* padding: 100px; */
+  margin: 10px;
+  /* position: relative; */
+  background-color: rgb(3, 139, 48);
+  border-radius: 30px;
+}
+.cancelledcount {
+  width: 90%;
+  /* border: 1px solid red; */
+  height: 160px;
+  /* padding: 100px; */
+  margin: 10px;
+  /* position: relative; */
+  background-color: rgb(167, 97, 5);
+  border-radius: 30px;
+}
+.graphs {
+  width: 85%;
+  /* height: 770px; */
+  /* border: 1px solid red; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  /* overflow-y: scroll; */
+  /* gap: 10px; */
+  padding: 8px;
+}
+
+.interviewtype {
+  width: 49%;
+  /* height: 350px; */
+  /* border: 1px solid red; */
+  border-radius: 3px;
+  background-color: rgb(211, 236, 236);
+  padding: 8px;
+  border-radius: 10px;
+  margin-bottom: 12px;
+}
+.interviewtype h4 {
+  text-align: center;
+}
+.interviewpanelfeedback {
+  width: 49%;
+  /* height: 350px; */
+  /* border: 1px solid red; */
+  background-color: rgb(211, 236, 236);
+  border-radius: 10px;
+  padding: 8px;
+  margin-bottom: 12px;
+}
+.technopiechart {
+  /* display: flex; */
+  /* flex-direction: column; */
+  align-items: center;
+  width: 24%;
+  /* height: 350px; */
+  /* border: 1px solid red; */
+  border-radius: 3px;
+  background-color: rgb(211, 236, 236);
+  border-radius: 8px;
+  padding: 10px;
+  position: relative;
+
+}
+.interviewcolumnchart {
+  width: 74%;
+  /* height: 350px; */
+  /* border: 1px solid red; */
+  border-radius: 3px;
+  background-color: rgb(211, 236, 236);
+  border-radius: 8px;
+  padding: 8px;
+}
+.interviewcolumnchart > h4,
+.technopiechart > h4 {
+  text-align: center;
+  font-size: 2rem;
+  padding: 8px 4px 12px 0.5em;
+  border-bottom: 1px solid rgb(212, 209, 159);
+}
+.countyearbarchart {
+  width: 350px;
+  height: 350px;
+  /* border: 1px solid red; */
+  border-radius: 3px;
+}
+
+.pieContainer {
+  /* width: 200px; */
+  /* height: 200px; */
+  margin-top: 12px;
+}
+.typesRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 54px;
+}
+
+.circle {
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  margin-bottom: 16px;
+}
+
+.fullStack {
+  width: 160px;
+  height: 160px;
+  background-color: rgb(10, 177, 177);
+}
+
+.frontend {
+  width: 120px;
+  height: 120px;
+  background: rgb(6, 113, 149);
+  font-size: 18px;
+}
+.dbms {
+  width: 80px;
+  height: 80px;
+  background-color: rgb(4, 73, 96);
+}
+
+.fullStackText {
+  font-size: 28px;
+}
+.frontendText {
+  font-size: 16px;
+}
+.dbmsText {
+  font-size: 12px;
+}
+.typeTitle {
+  color: black;
+  font-size: 12px;
+  text-align: center;
+  font-weight: 600;
+}
+.typeText {
+  font-size: 8px;
+  text-align: center;
+  color: black;
+}
+.typeWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.expression {
+  width: 36px;
+  height: 36px;
+}
+.percentageText {
+  font-weight: bold;
+  color: #fff;
+  font-size: 24px;
+}
+
+.panelRow {
+  display: flex;
+  flex-direction: row;
+  padding: 12px 16px;
+  align-items: center;
+  justify-content: space-around;
+  width: 35%;
+}
+.successPanel {
+  background-color: rgb(47, 255, 106);
+}
+.failedPanel {
+  background-color: rgb(238, 66, 66);
+}
+.row {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.panelContent {
+  width: 63%;
+}
+.panelTitle {
+  font-size: 12px;
+  font-weight: 600;
+  color: black;
+}
+.panelText {
+  font-size: 12px;
+  color: black;
+}
+
+.feedbackStats {
+  padding: 16px 12px;
+  background-color: rgb(202, 235, 235);
+  margin-top: 12px;
+}
+.feedbackRow {
+  display: flex;
+  justify-content: space-between;
+}
+
+.feedbackTitle {
+  font-size: 12px;
+  line-height: normal;
+  font-weight: 600;
+}
+
+.feedbackText {
+  font-size: 10px;
+  line-height: normal;
+}
+.box {
+  width: 72px;
+  height: 72px;
+  background-color: rgb(20, 224, 180);
+  position: relative;
+}
+
+.box1 {
+  background-color: rgb(45, 162, 137);
+}
+.box2 {
+  background-color: rgb(16, 117, 138);
+}
+.box3 {
+  background-color: rgb(5, 117, 197);
+}
+
+.venn {
+  position: relative;
+  width: 49%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.scheduled {
+  position: relative;
+  border-radius: 50%;
+  border-radius: 50%;
+  background-color: red;
+  right: 20px;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  font-size: 24px;
+  color: #fff;
+  font-weight: bold;
+}
+.completed {
+  position: relative;
+  border-radius: 50%;
+  background-color: rgb(76, 217, 158);
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  padding: 8px;
+  font-size: 24px;
+  color: #fff;
+  font-weight: bold;
+}
+.cancelled {
+  position: relative;
+  top: 50px;
+  right: 120px;
+  border-radius: 50%;
+  background-color: rgb(233, 86, 86);
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  padding: 8px;
+  font-size: 24px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.innerBox1 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 15px;
+  left: 15px;
+  background-color: #fff;
+}
+.innerBox2 {
+  position: absolute;
+  width: 20px;
+  height: 40px;
+  top: 15px;
+  left: 15px;
+  background-color: #fff;
+}
+
+.innerBox3 {
+  position: absolute;
+  width: 40px;
+  height: 20px;
+  top: 35px;
+  left: 15px;
+  background-color: #fff;
+}

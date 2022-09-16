@@ -1,0 +1,43 @@
+
+
+ {
+ "user":[
+    {
+    "email" : "akshit.1@gmail.com",
+    "password" : "123456",
+    "age" : 24,
+    "address" : 
+            { 
+            "Hno" : 25,
+            "city" : "Delhi",
+            "state" : "up"
+            },
+    "Hobbies" : [ "Reading", "bike riding", "cricket" ]        
+   },
+   {
+    "email" : "hussain.2@gmail.com",
+    "password" : "123336",
+    "age" : 24,
+    "address" : 
+            { 
+            "Hno" : 24,
+            "city" : "Noida",
+            "state" : "up"
+            },
+    "Hobbies" : [ "Reading", "bike riding" ]        
+   },
+    {
+    "email" : "hussain.2@gmail.com",
+    "password" : "123336",
+    "age" : 24,
+    "address" : 
+            { 
+            "Hno" : 24,
+            "city" : "Noida",
+            "state" : "up"
+            },
+    "Hobbies" : [ "Reading", "bike riding" ]        
+   }
+   ]
+ 
+ }

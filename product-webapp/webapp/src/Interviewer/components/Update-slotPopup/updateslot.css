@@ -1,0 +1,158 @@
+.modal {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(230, 230, 230, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: all 0.3s ease-in-out;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.modal.enter-done {
+  opacity: 1;
+  pointer-events: visible;
+}
+
+.modal.exit {
+  opacity: 0;
+}
+
+.modal-content {
+  width: 500px;
+  height: 505px;
+  background-color: rgb(140, 183, 193, .20);
+  transition: all 0.3s ease-in-out;
+  transform: translateY(-200px);
+}
+
+.modal.enter-done .modal-content {
+  transform: translateY(0);
+}
+
+.modal.exit .modal-content {
+  transform: translateY(-200px);
+}
+
+.modal-header {
+  padding: 15px;
+  background-color: #8CB7C1;
+}
+
+.modal-footer {
+  padding: 10px;
+  background-color: #d4dddf;
+}
+
+.modal-title {
+  margin: 0;
+}
+
+.modal-body {
+  width: 498px;
+  height: 350px;
+  padding: 30px 0px 15px 45px;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  background-color: #d4dddf;
+}
+
+.button {
+  margin: 5px;
+}
+
+
+
+@import url("https://fonts.googleapis.com/css?family=Exo:500,600,700%7CRoboto&display=swap");
+
+:root {
+  --btn-primary: #406699;
+  --btn-secondary: #406699ba;
+  --background-primary: #E6E6E6;
+  --background-secondary: #8CB7C1;
+  --font-main-color: #406699;
+  --font-white: #fff;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif; */
+  font-family: 'Exo 2', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.6;
+  font-size: 16px;
+  font-weight: 400 !important;
+  color: var(--font-main-color) !important;
+  background: var(--background-primary) !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.btn-primary {
+  background-color: var(--btn-primary) !important;
+  color: var(--font-white) !important;
+  border: var(--btn-primary) !important;
+  border-radius: 4px;
+}
+
+.btn-primary:hover {
+  background-color: var(--btn-secondary) !important;
+}
+
+.bg-secondary {
+  background-color: var(--background-secondary);
+  color: var(--font-white);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: sans-serif;
+  font-weight: 400;
+  color: var(--font-secondary-color);
+}
+
+h1,
+.h1 {
+  font-size: 2.5rem;
+}
+
+.mt-80 {
+  margin-top: 80px;
+}
+
+
+.form-control {
+  margin-left: 0.5rem;
+  background-color: #e5e1e1;
+  border: lightgray;
+  color: var(--font-main-color);
+  width: 47%;
+}
+
+label.form-label {
+  margin: 0;
+  padding: 0;
+}
+
+.form-select1 {
+  width: 100%;
+}

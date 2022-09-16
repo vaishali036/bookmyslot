@@ -1,0 +1,155 @@
+{
+    "interviewerSlots": [
+      {
+         "date": "2022:05:02",
+         "techTrack": "frontend",
+         "interviewerName" : "Sarath Babu" ,
+         "interviewerEmailId" : "sarath@glc.com",
+         "usePhone" : "+91- 8650957185",
+         "status" : "Available",
+         "slots" : [
+          {
+            "slotId": "0242ac120012",
+            "startTime": "9:30",
+            "endTime": "11:30",
+            "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+            "bookedStatus": "Available"
+          },
+          {
+            "slotId": "0242ac120022",
+            "startTime": "12:00",
+            "endTime": "14:00",
+            "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+            "bookedStatus": "Booked"
+          },
+          {
+            "slotId": "0242ac120032",
+            "startTime": "14:30",
+            "endTime": "15:30",
+            "description": "L1 Support: Web Application Support, Excellent Communication Skills, LinuxUnix, SQL, Basic Knowledge of web technologies.",
+            "bookedStatus": "Available"
+          },
+          {
+            "slotId": "0242ac120052",
+            "startTime": "16:40",
+            "endTime": "16:50",
+            "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+            "bookedStatus": "Available"
+          }
+         ]
+      },
+      {
+         "date": "2022:05:02",
+        "techTrack": "frontend",
+        "interviewerName" : "Hussain" ,
+        "interviewerEmailId" : "hussain@glc.com",
+        "usePhone" : "+91- 8237492039",
+        "status" : "Available",
+        "slots" : [
+          {
+            "slotId": "0242ac120013",
+            "startTime": "9:15",
+            "endTime": "11:45",
+            "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+            "bookedStatus": "Unavailable"
+          },
+          {
+            "slotId": "0242ac120023",
+            "startTime": "12:40",
+            "endTime": "14:00",
+            "description": "L1 Support: Web Application Support, Excellent Communication Skills, LinuxUnix, SQL, Basic Knowledge of web technologies.",
+            "bookedStatus": "Available"
+          },
+          {
+            "slotId": "0242ac120033",
+            "startTime": "15:30",
+            "endTime": "18:30",
+            "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+            "bookedStatus": "Available"
+          }
+        ]
+     },
+     {
+      "date": "2022:05:07",
+      "techTrack": "frontend",
+      "interviewerName" : "Akshit Singh" ,
+      "interviewerEmailId" : "akshit@glc.com",
+      "usePhone" : "+91- 9950925185",
+      "status" : "Available",
+      "slots" : [
+        {
+          "slotId": "0242ac120014",
+          "startTime": "11:00",
+          "endTime": "12:30",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "bookedStatus": "Available"
+        },
+        {
+          "slotId": "0242ac120034",
+          "startTime": "15:30",
+          "endTime": "16:00",
+          "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+          "bookedStatus": "Available"
+        },
+        {
+          "slotId": "0242ac120044",
+          "startTime": "16:15",
+          "endTime": "17:00",
+          "description": "UI Interview: Designing",
+          "bookedStatus": "Available"
+        },
+        {
+          "slotId": "0242fg150044",
+          "startTime": "17:15",
+          "endTime": "18:00",
+          "description": "Front-end Interview: Angular,react, javascript",
+          "bookedStatus": "Available"
+        }
+      ]
+   },
+   {
+    "date": "2022:05:08",
+    "techTrack": "frontend",
+    "interviewerName" : "Sarath Babu" ,
+    "interviewerEmailId" : "sarath@glc.com",
+    "usePhone" : "+91- 8650957185",
+    "status" : "Available",
+    "slots" : [
+     {
+       "slotId": "0242ac121012",
+       "startTime": "10:30",
+       "endTime": "11:30",
+       "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+       "bookedStatus": "Available"
+     },
+     {
+       "slotId": "0242ac122022",
+       "startTime": "12:30",
+       "endTime": "14:30",
+       "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+       "bookedStatus": "Avialable"
+     },
+     {
+       "slotId": "0242ac123032",
+       "startTime": "14:30",
+       "endTime": "15:30",
+       "description": "L1 Support: Web Application Support, Excellent Communication Skills, LinuxUnix, SQL, Basic Knowledge of web technologies.",
+       "bookedStatus": "Booked"
+     },
+     {
+       "slotId": "0242ac124052",
+       "startTime": "17:40",
+       "endTime": "18:00",
+       "description": "Javascript Interview: HTML, CSS, Javascript, SQL, OOPS concepts (C++/JAVA), Regular Expression and Knowledge of any programming language (e.g. C/C++/Python/Java etc.)",
+       "bookedStatus": "Available"
+     }
+    ]
+   }
+
+
+   
+     
+
+    ]
+}
+    

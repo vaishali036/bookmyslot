@@ -1,0 +1,206 @@
+{
+    "slot": [
+      {
+        "interviewerName": "1",
+        "startTime": "9:30",
+        "endTime": "11:30",
+        "interviewerAvailDate": "2022:02:04",
+        "bookedStatus": "PAST",
+        "tecktrack": "frontend",
+        "interviewTopic": "html,css,js",
+        "bookedSlotId": "74847488"
+      },
+      {
+        "interviewerName": "2",
+        "startTime": "9:30",
+        "endTime": "11:30",
+        "interviewerAvailDate": "2022:08:04",
+        "bookedStatus": "BOOKED",
+        "tecktrack": "backend",
+        "interviewTopic": "html,css,js",
+        "bookedSlotId": "87484hjdjj"
+      },
+      {
+        "interviewerName": "3",
+        "startTime": "11:30",
+        "endTime": "13:30",
+        "interviewerAvailDate": "2022:04:06",
+        "bookedStatus": "BOOKED",
+        "tecktrack": "backend",
+        "interviewTopic": "java,python",
+        "bookedSlotId": "0242ac120012"
+      },
+      {
+        "interviewerName": "4",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "interviewerAvailDate": "2022:04:07",
+        "bookedStatus": "BOOKED",
+        "tecktrack": "fullstack",
+        "interviewTopic": "java,python,html",
+        "bookedSlotId": "84jmfmfmfmfm"
+      },
+      {
+        "interviewerName": "5",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "interviewerAvailDate": "2022:04:08",
+        "bookedStatus": "BOOKED",
+        "tecktrack": "frontend",
+        "interviewTopic": "html, css, angular"
+      },
+      {
+        "interviewerName": "6",
+        "startTime": "17:45",
+        "endTime": "18:30",
+        "interviewerAvailDate": "2022:04:09",
+        "bookedStatus": "BOOKED",
+        "tecktrack": "backend",
+        "interviewTopic": "java,python, bootstrap"
+      },
+      {
+        "interviewerName": "7",
+        "startTime": "11:45",
+        "endTime": "12:30",
+        "interviewerAvailDate": "2022:04:09",
+        "bookedStatus": "CANCELED",
+        "tecktrack": "backend",
+        "interviewTopic": "java,python, bootstrap"
+      },
+      {
+        "interviewerName": "8",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "interviewerAvailDate": "2022:04:05",
+        "bookedStatus": "CANCELED",
+        "tecktrack": "frontend",
+        "interviewTopic": "html, css, react"
+      },
+      {
+        "interviewerName": "9",
+        "startTime": "10:30",
+        "endTime": "12:30",
+        "interviewerAvailDate": "2022:04:04",
+        "bookedStatus": "CANCELED",
+        "tecktrack": "frontend",
+        "interviewTopic": "html, css, react"
+      },
+      {
+        "interviewerName": "10",
+        "startTime": "8:30",
+        "endTime": "9:30",
+        "interviewerAvailDate": "2022:04:06",
+        "bookedStatus": "CANCELED",
+        "tecktrack": "frontend",
+        "interviewTopic": "html, css, react"
+      },
+      {
+        "interviewerName": "11",
+        "startTime": "9:30",
+        "endTime": "11:30",
+        "interviewerAvailDate": "2022:04:08",
+        "bookedStatus": "CANCELED",
+        "tecktrack": "Fullstack",
+        "interviewTopic": "html, css, bootstrap"
+      },
+      {
+        "interviewerName": "12",
+        "startTime": "9:30",
+        "endTime": "11:30",
+        "interviewerAvailDate": "2022:05:05",
+        "bookedStatus": "BOOKED",
+        "tecktrack": "frontend",
+        "interviewTopic": "html,css,js",
+        "bookedSlotId": "aaa"
+      },
+      {
+        "interviewerName": "13",
+        "startTime": "11:30",
+        "endTime": "13:30",
+        "interviewerAvailDate": "2022:04:04",
+        "bookedStatus": "BOOKED",
+        "tecktrack": "backend",
+        "interviewTopic": "java,python",
+        "bookedSlotId": "0242ac120012"
+      },
+      {
+        "interviewerName": "14",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "interviewerAvailDate": "2022:08:06",
+        "bookedStatus": "BOOKED",
+        "tecktrack": "fullstack",
+        "interviewTopic": "java,python,html"
+      },
+      {
+        "interviewerName": "15",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "interviewerAvailDate": "2022:07:05",
+        "bookedStatus": "BOOKED",
+        "tecktrack": "frontend",
+        "interviewTopic": "html, css, angular"
+      },
+      {
+        "interviewerName": "16",
+        "startTime": "11:30",
+        "endTime": ":13:00",
+        "interviewerAvailDate": "2022:07:05",
+        "bookedStatus": "BOOKED",
+        "tecktrack": "frontend",
+        "interviewTopic": "html, css, angular"
+      },
+      {
+        "interviewerName": "17",
+        "startTime": "11:45",
+        "endTime": "12:30",
+        "interviewerAvailDate": "2022:07:17",
+        "bookedStatus": "CANCELED",
+        "tecktrack": "SOFTWARE"
+      },
+      {
+        "interviewerName": "18",
+        "startTime": "17:45",
+        "endTime": "19:30",
+        "interviewerAvailDate": "2022:07:09",
+        "bookedStatus": "BOOKED",
+        "tecktrack": "backend"
+      },
+      {
+        "interviewerName": "19",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "interviewerAvailDate": "05:04:2022",
+        "bookedStatus": "BOOKED",
+        "tecktrack": "fullstack",
+        "interviewTopic": "java,python,html"
+      },
+      {
+        "interviewerName": "20",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "interviewerAvailDate": "2022:05:05",
+        "bookedStatus": "BOOKED",
+        "tecktrack": "frontend",
+        "interviewTopic": "html, css, angular"
+      },
+      {
+        "interviewerName": "22",
+        "startTime": "11:45",
+        "endTime": "12:30",
+        "interviewerAvailDate": "2022:05:07",
+        "bookedStatus": "CANCELED",
+        "tecktrack": "backend",
+        "interviewTopic": "React and html"
+      },
+      {
+        "interviewerName": "23",
+        "startTime": "11:45",
+        "endTime": "12:30",
+        "interviewerAvailDate": "2022:05:07",
+        "bookedStatus": "CANCELED",
+        "tecktrack": "mobile development",
+        "interviewTopic": "Bootstrap"
+      }
+    ]
+  }

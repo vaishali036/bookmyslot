@@ -1,0 +1,20 @@
+{
+  "signup_users": [
+    {
+      "userName": "Sarath123",
+      "userEmailId": "sarath@gmail.com",
+      "password": "User@1234",
+      "department": "TAG",
+      "phoneNo": "9494994994",
+      "userRole": "TAG"
+    },
+    {
+      "userName": "User123",
+      "userEmailId": "user123@gmail.com",
+      "password": "User@12345",
+      "department": "Front",
+      "phoneNo": "9484948494",
+      "userRole": "INTERVIEWER"
+    }
+  ]
+}
